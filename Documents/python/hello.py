@@ -46,5 +46,6 @@ for x in range(1,5):
     for y in range(6,10):
         print(f"{x}{y} ", end="")
     print("")
+    print("1234")
         
         
